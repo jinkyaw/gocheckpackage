@@ -1,0 +1,4 @@
+github.com/jinkyaw/gocheckpackage/greetings v0.0.0-20220101171219-25a109bdc6ea h1:6mu/UmCLfyeYH+gGfTY+nZH2DTbkGlhQ1Q57OcXidvU=
+github.com/jinkyaw/gocheckpackage/greetings v0.0.0-20220101171219-25a109bdc6ea/go.mod h1:gRpaj9xp+fJEHnykM63iAsf6oWrB/NQ5UHFK2VGIDYg=
+github.com/jinkyaw/gocheckpackage/reversestring v0.0.0-20220101171219-25a109bdc6ea h1:23ThCw1p2kkRPC4MMFmdaOs3StzKijOF9oWuxUvDrEE=
+github.com/jinkyaw/gocheckpackage/reversestring v0.0.0-20220101171219-25a109bdc6ea/go.mod h1:aQ+4ZhDXpxxDzKvyIdaep84+a/yhrkgWDdFaHGYOE8E=
